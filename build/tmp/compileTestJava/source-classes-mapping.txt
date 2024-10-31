@@ -1,0 +1,6 @@
+com/gmdb/gmdb/GmdbMovieApplicationTests.java
+ com.gmdb.gmdb.GmdbMovieApplicationTests
+com/gmdb/gmdb/MovieControllerTest.java
+ com.gmdb.gmdb.MovieControllerTest
+com/gmdb/gmdb/MovieServiceTest.java
+ com.gmdb.gmdb.MovieServiceTest

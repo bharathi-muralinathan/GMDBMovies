@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gmdb.gmdb.MovieServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-03T22:31:32" hostname="LAPTOP-S57OD5Q8" time="1.525">
+  <properties/>
+  <testcase name="getAllMovies()" classname="com.gmdb.gmdb.MovieServiceTest" time="1.472"/>
+  <testcase name="getMovieByTitle()" classname="com.gmdb.gmdb.MovieServiceTest" time="0.01"/>
+  <testcase name="acceptUserReview()" classname="com.gmdb.gmdb.MovieServiceTest" time="0.013"/>
+  <testcase name="getMovieByTitleNotExistent()" classname="com.gmdb.gmdb.MovieServiceTest" time="0.006"/>
+  <testcase name="acceptStarRating()" classname="com.gmdb.gmdb.MovieServiceTest" time="0.006"/>
+  <testcase name="submitReviewNoRating()" classname="com.gmdb.gmdb.MovieServiceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
